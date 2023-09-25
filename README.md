@@ -13,5 +13,4 @@ Throughout the project, I utilized AWS Sagemaker to build the image classificati
 2. **Model training and deployment**
 3. **Lambdas and step function workflow**
 4. **Testing and evaluation**
-5. **Optional challenge**
-6. **Cleanup cloud resources**
+5. **Cleanup cloud resources**
